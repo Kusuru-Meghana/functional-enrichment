@@ -29,3 +29,6 @@ Differentially expressed genes are categorized by GO into biological processes (
 
 Interpretation - Genes are strongly enriched in vascular growth and extracellular matrix activity, consistent with exercise-induced remodeling of skeletal muscle.
 <img width="1637" height="719" alt="image" src="https://github.com/user-attachments/assets/36abade5-4a53-4bd4-8314-57067850bfb7" />
+
+<img width="1377" height="730" alt="image" src="https://github.com/user-attachments/assets/8bc970c4-6f70-407e-85bf-964a34a12fa9" />
+
