@@ -49,3 +49,27 @@ Interpretation - Muscle adaptation is largely dependent on ECM remodeling and gr
 <img width="1947" height="641" alt="image" src="https://github.com/user-attachments/assets/f1f4dda0-ad2e-466d-8076-022c8df58c59" />
 
 
+# Gene Set Enrichment Analysis (GSEA)
+
+# What is GSEA?
+
+Using GSEA, we can find out if certain genes are enriched at the top (upregulated) or bottom (downregulated) of a gene list. Unlike GO/Pathway analysis, it doesn’t require prior filtering.
+
+# Results in Skeletal Muscle
+
+- PI3K–Akt signaling pathway highly enriched - regulates growth, survival, and metabolism.
+- mTOR signaling pathway enriched - controls protein synthesis and hypertrophy.
+
+Interpretation - Growth and adaptation pathways get activated when you train.
+
+
+# Integrated Conclusion
+
+Together, the analyses show - 
+- The extracellular matrix is strongly enriched in this cell type and vascular development is strongly enhanced.
+- IGF, PI3K-Akt, and mTOR signaling pathways are involved in the regulation of this process.
+- There is evidence that muscles undergo remodeling and adaptation in response to physiological stimuli.
+
+
+
+
