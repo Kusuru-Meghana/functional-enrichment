@@ -28,4 +28,4 @@ Differentially expressed genes are categorized by GO into biological processes (
 - Circulatory system development 
 
 Interpretation - Genes are strongly enriched in vascular growth and extracellular matrix activity, consistent with exercise-induced remodeling of skeletal muscle.
-p
+<img width="1637" height="719" alt="image" src="https://github.com/user-attachments/assets/36abade5-4a53-4bd4-8314-57067850bfb7" />
