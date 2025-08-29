@@ -43,3 +43,9 @@ Pathway analysis maps genes to known signaling or metabolic pathways (KEGG/React
 - Extracellular matrix–receptor interaction
 - Immune-related signaling cascades
 Interpretation - Muscle adaptation is largely dependent on ECM remodeling and growth factor signaling.
+
+<img width="1328" height="162" alt="image" src="https://github.com/user-attachments/assets/48abd467-f776-4d04-bca2-b18563f11314" />
+
+<img width="1947" height="641" alt="image" src="https://github.com/user-attachments/assets/f1f4dda0-ad2e-466d-8076-022c8df58c59" />
+
+
