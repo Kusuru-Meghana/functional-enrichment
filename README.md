@@ -32,3 +32,14 @@ Interpretation - Genes are strongly enriched in vascular growth and extracellula
 
 <img width="1377" height="730" alt="image" src="https://github.com/user-attachments/assets/8bc970c4-6f70-407e-85bf-964a34a12fa9" />
 
+
+# *Pathway Analysis*
+
+# What is Pathway Analysis?
+Pathway analysis maps genes to known signaling or metabolic pathways (KEGG/Reactome), providing insight into system-level changes.
+
+# Results in Skeletal Muscle
+- Regulation of IGF transport and uptake
+- Extracellular matrix–receptor interaction
+- Immune-related signaling cascades
+Interpretation - Muscle adaptation is largely dependent on ECM remodeling and growth factor signaling.
