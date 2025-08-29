@@ -1,6 +1,6 @@
-##Functional Enrichment Analysis of Skeletal Muscle
+# *Functional Enrichment Analysis of Skeletal Muscle*
 
-##Introduction
+# Introduction
 RNA sequencing is a powerful tool for studying skeletal muscle biology, revealing changes in gene expression after exercise, injury, or disease. To make sense of these large datasets, researchers rely on functional enrichment analysis, which includes,
 - Gene Ontology (GO) analysis - mapping genes to biological processes, cellular components, and molecular functions.
 - Pathway analysis - identifying signaling/metabolic pathways (KEGG, Reactome).
@@ -8,7 +8,7 @@ RNA sequencing is a powerful tool for studying skeletal muscle biology, revealin
 
 In this project, I applied these approaches to a skeletal muscle dataset to uncover genes, processes, and pathways involved in vascular remodeling and extracellular matrix biology.
 
-##Dataset
+# Dataset
 - File - skeletal_muscle.csv
 - Almost 24,000 genes with -
    - scores (Wilcoxon rank-sum test statistic)
@@ -16,12 +16,12 @@ In this project, I applied these approaches to a skeletal muscle dataset to unco
 - Top-ranked genes - APOD, DCN, GSN, CFD, MGP
 
 
-##Gene Ontology (GO) Analysis
+# Gene Ontology (GO) Analysis
 
 ##What is GO Analysis?
 Differentially expressed genes are categorized by GO into biological processes (BP), cellular components (CC), and molecular functions (MF). This reveals the biological context of gene expression changes.
 
-##Results in Skeletal Muscle
+# Results in Skeletal Muscle
 - Extracellular region 
 - Cell periphery 
 - Blood vessel development 
