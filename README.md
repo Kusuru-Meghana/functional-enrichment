@@ -8,12 +8,14 @@ RNA sequencing is a powerful tool for studying skeletal muscle biology, revealin
 
 In this project, I applied these approaches to a skeletal muscle dataset to uncover genes, processes, and pathways involved in vascular remodeling and extracellular matrix biology.
 
-# Dataset
-- File - skeletal_muscle.csv
-- Almost 24,000 genes with -
-   - scores (Wilcoxon rank-sum test statistic)
-   - p-values and adjusted p-values (FDR)
-- Top-ranked genes - APOD, DCN, GSN, CFD, MGP
+
+## Dataset
+- File- `data/skeletal_muscle.csv`
+- Columns -
+  - `names` — gene symbol
+  - `scores` — Wilcoxon rank-sum test statistic (positive = up-regulated post-exercise)
+  - `pvals` — raw p-value
+  - `pvals_adj` — FDR-adjusted p-value
 
 
 # Gene Ontology (GO) Analysis
