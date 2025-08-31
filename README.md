@@ -73,5 +73,16 @@ Together, the analyses show -
 - There is evidence that muscles undergo remodeling and adaptation in response to physiological stimuli.
 
 
+## How to Run
+
+### Google Colab
+1. Open `functional_enrichment_analysis.ipynb` in Colab.
+2. Upload `data/skeletal_muscle.csv` to the Colab workspace (or mount Drive).
+3. Run all cells. Figures are saved to `figures/`, tables to `results/`.
+
+
+  
+
+
 
 
